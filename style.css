@@ -1,0 +1,13 @@
+section.description img {
+    height: auto;
+    width: 35%;
+    float: right;
+    padding-left: 2%;
+}
+
+.box{
+    margin: 10px;
+    border: 10px blue;
+    padding: 10px;
+    background-color: pink;
+}
